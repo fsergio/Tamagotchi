@@ -6,6 +6,8 @@ Tamagotchi 1.0
 		java -jar Tamagotchi.jar
 
 (Para mas informacion, leer pdf con requerimientos)
+
+- this example with intellij IDEA!
 ------------------------------------------------------------------------------------------------
 JDK 1.8.0_121
 ------------------------------------------------------------------------------------------------
